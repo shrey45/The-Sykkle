@@ -11,6 +11,12 @@ One issue we've ran into is how we will secure the front wheel of our bike in a 
 
 One thing that went well was our brainstorming. We were able to finalize a desgin that will allow us to build our protoytype next week. We struggled with staying on task 100% of the time,
 
+<img src="Images/FrontPiece.PNG" alt="FrontPiece" width="300">
+(Front Piece)
+
+<img src="Images/Backpiece.PNG" alt="BackPiece" width="300">
+(Back Piece)
+
 
 ### Future plans
 
