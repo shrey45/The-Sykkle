@@ -37,7 +37,7 @@ This week was solely spent on developing our protoype. We used our skethches and
 
 One thing that went well was our building and improvising. We realized that there would be to much stress on the middle of our frame, and we quickly thought of and built an effective solution. 
 
-<img src="Images/BackFrame.png" alt="FrontPiece" width="300">
+<img src="Images/BackFrame.png" alt="BackFrame" width="300">
 (Back Frame)
 
 
