@@ -35,7 +35,7 @@ Next week we plan to start building our prototype. We will build the frame of th
 
 This week was solely spent on developing our protoype. We used our skethches and CAD design to guide us in building the back peice of the frame. We initially ran into problems getting the neccesary 45 degree angle, but with the help of the swiveling chop saw, we got it . We built each side of the back frame indiviudally, and added a middle suppot beam that wasn't in our drawings, because it needed significantly more support than we forsaw. Below is 1/2 of the frame we built.
 
-One thing that went well was our building and improvising. We realized that there would be to much stress on the middle of our frame, and we quickly thought of and built an effective solution. 
+One thing that went well was our building and improvising. We realized that there would be to much stress on the middle of our frame, and we quickly thought of and built an effective solution. One thing we could do better is efficent buidling.
 
 <img src="Images/BackFrame.png" alt="BackFrame" width="300">
 (Back Frame)
@@ -45,4 +45,20 @@ One thing that went well was our building and improvising. We realized that ther
 ### Future plans
 
 Next week we are going to assemble the back frame, and test it with the bike. Ideally we will also print out the front peice and start that construction. Our major goal is to have a finalized prototype before Christmas break. 
+
+## Week 14
+
+### What we accompished/discovered
+
+This week we initially focused on finalizing our back frame. Unfortuantately 
+<img src="Images/FrontPiece.PNG" alt="FrontPiece" width="300">
+(Front Piece)
+
+<img src="Images/Backpiece.PNG" alt="BackPiece" width="300">
+(Back Piece)
+
+
+### Future plans
+
+Next week we plan to start building our prototype. We will build the frame of the back piece out of wood, 3D print the neccesary parts of the front piece, and then build the front pieces frame out of wood. We intend to finsish this intial protype next week, and move onto building the generator piece of our project. 
 
