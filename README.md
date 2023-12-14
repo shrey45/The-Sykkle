@@ -2,7 +2,7 @@
 World's best Stationary Bike KIT
 
 
-
+Check out our [project proposal](https://docs.google.com/presentation/d/1oGuyexTfXZ76zOdR2cW2udPQ9dTwL28PTwHlfhq9di8/edit?usp=sharing)
 
 
 ## Weekly Progress
