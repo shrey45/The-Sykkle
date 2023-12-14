@@ -5,12 +5,13 @@ World's best Stationary Bike KIT
 
 
 
+## Weekly Progress
+<details>
+<summary>Click here to see Weekly Progress</summary>
 
+### Week 12
 
-
-## Week 12
-
-### What we accompished/discovered
+#### What we accompished/discovered
 
 This week we focused on refining our design/sketches. We finished an onshape design for the main back piece of our project, as well as a prototype for the front piece. We also made sketches for these pieces which will act as a blue print once we start building. We also contacted our UVA Mentor, Nicholas, to schedule a meeting and mull over ideas. We decided the frame design we are going with, and our design for the front attatchment piece. 
 
@@ -25,13 +26,13 @@ One thing that went well was our brainstorming. We were able to finalize a desgi
 (Back Piece)
 
 
-### Future plans
+#### Future plans
 
 Next week we plan to start building our prototype. We will build the frame of the back piece out of wood, 3D print the neccesary parts of the front piece, and then build the front pieces frame out of wood. We intend to finsish this intial protype next week, and move onto building the generator piece of our project. 
 
-## Week 13
+### Week 13
 
-### What we accompished/discovered
+#### What we accompished/discovered
 
 This week was solely spent on developing our protoype. We used our skethches and CAD design to guide us in building the back peice of the frame. We initially ran into problems getting the neccesary 45 degree angle, but with the help of the swiveling chop saw, we got it . We built each side of the back frame indiviudally, and added a middle suppot beam that wasn't in our drawings, because it needed significantly more support than we forsaw. Below is 1/2 of the frame we built.
 
@@ -42,13 +43,13 @@ One thing that went well was our building and improvising. We realized that ther
 
 
 
-### Future plans
+#### Future plans
 
 Next week we are going to assemble the back frame, and test it with the bike. Ideally we will also print out the front peice and start that construction. Our major goal is to have a finalized prototype before Christmas break. 
 
-## Week 14
+### Week 14
 
-### What we accompished/discovered
+#### What we accompished/discovered
 
 This week we initially focused on finalizing our back frame. Unfortuantately 
 <img src="Images/FrontPiece.PNG" alt="FrontPiece" width="300">
@@ -58,7 +59,8 @@ This week we initially focused on finalizing our back frame. Unfortuantately
 (Back Piece)
 
 
-### Future plans
+#### Future plans
 
 Next week we plan to start building our prototype. We will build the frame of the back piece out of wood, 3D print the neccesary parts of the front piece, and then build the front pieces frame out of wood. We intend to finsish this intial protype next week, and move onto building the generator piece of our project. 
 
+</details>
