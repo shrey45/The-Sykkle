@@ -70,7 +70,17 @@ Next week we plan to start building our prototype. We will build the frame of th
 <details>
 <summary>Click here to see Code BTS</summary>
 
-ggg
+### Planning
+
+The code of the project will mainly revolve around the various sensors that we will attach to provide rider metrics. The key differential in our project will be our adaptable screen. Instead of adding a built-in screen to the bike, we will allow users to connect their phone through an app to the bike, allowing them to display all the rider metrics on their personal device for ease and cutting down costs of the bike.
+
+#### Potential Materials
+
+1. Raspberry Pi Pico
+2. HC-05 Bluetooth Module
+3. Phone + App (TBD)
+4. Other sensors TBD
+
 
 </details>
 
