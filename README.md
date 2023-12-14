@@ -64,3 +64,15 @@ This week we initially focused on finalizing our back frame. Unfortuantately
 Next week we plan to start building our prototype. We will build the frame of the back piece out of wood, 3D print the neccesary parts of the front piece, and then build the front pieces frame out of wood. We intend to finsish this intial protype next week, and move onto building the generator piece of our project. 
 
 </details>
+
+## Code
+
+<details>
+<summary>Click here to see Code BTS</summary>
+
+ggg
+
+</details>
+
+
+
