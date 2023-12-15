@@ -51,6 +51,21 @@ Next week we are going to assemble the back frame, and test it with the bike. Id
 
 #### What we accompished/discovered
 
+This week we initially focused on finalizing our back frame. Unfortuantately the bar that went through the back peice and the bike itself was made out of aluminum, and with testing, we discovered that it was not even close enough to strong enough. It bent in half as soon as I (Callan, heavier than Shrey) sat on the bike. This is not good as we want the bike to be able to hold someone up to 250 lbs, and I weight 175. To solve this problem, we went to Martins hardware and got a steel rod, that should be stronger. 
+
+
+<img src="Images/BentRod.PNG" alt="FrontPiece" width="300">
+
+
+
+#### Future plans
+
+Next week we plan to start building our prototype. We will build the frame of the back piece out of wood, 3D print the neccesary parts of the front piece, and then build the front pieces frame out of wood. We intend to finsish this intial protype next week, and move onto building the generator piece of our project. 
+
+### Week 15
+
+#### What we accompished/discovered
+
 This week we initially focused on finalizing our back frame. Unfortuantately 
 <img src="Images/FrontPiece.PNG" alt="FrontPiece" width="300">
 (Front Piece)
