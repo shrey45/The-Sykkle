@@ -78,6 +78,38 @@ This week we initially focused on finalizing our back frame. Unfortuantately
 
 Next week we plan to start building our prototype. We will build the frame of the back piece out of wood, 3D print the neccesary parts of the front piece, and then build the front pieces frame out of wood. We intend to finsish this intial protype next week, and move onto building the generator piece of our project. 
 
+### 2/5 - 2/9
+
+#### What we accomplished/discovered
+
+#### Future plans
+
+### 2/12 - 2/16
+
+#### What we accomplished/discovered
+
+#### Future plans
+
+### 2/19 - 2/23
+
+#### What we accomplished/discovered
+
+This week on Tueday Nicholas came into the Lab to meet with us and discuss where we're at. On the code side, he ws able to help a lot with explaining how to progress with the app, and new ways to test it. I learned of some new sources and functions I could use (whic is iwhere I was struggling). I also learned that I could use my own iPhone to connect as the simulator on Xcode so I could actually test the bluetooth. For build, we did some weight testing on the new steel rod we got and our finished prototype...and it broke. So we decided that we'll try and suspend the bike from elsewhere rather than trying to sitch out the rod. 
+
+#### Future plans
+
+We need to keep working on our app and also find another way to suspend the bike. These would be the main goals for the upcoming weeks.
+
+### 2/26 - 3/1
+
+#### What we accomplished/discovered
+
+This was a pretty good week in terms of what we accomplished. We found that supporting the bike on the rods around the wheels is much more structurally sound and reliable than our previous ideas. We decided to go with clamps to hold it out, and so we designed them in Onshape to be cut out of aluminum (water jet). I laser cut the pieces first to make sure that they fit how we want, and we'll get to the cutting next week. Unfortunately, our block day (in which we were going to waterjet and hopefully test some) got cut short due to an assembly so we had less time this week.
+
+#### Future plans
+
+We want to waterjet the clamps next week and figure out attachments. We also need to come up with a more structually sound prototype for the frame, for which we are considering the metal bars.
+
 </details>
 
 ## Code
