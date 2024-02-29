@@ -82,13 +82,21 @@ Next week we plan to start building our prototype. We will build the frame of th
 
 #### What we accomplished/discovered
 
+This week was really work heavy. We both just kept working on the app and the frame for the bike. We did some weight testing on the steel rod we bought and it seems that it will be able to hold up. For the app, I referenced ChatGPT for some starter Xcode for bluetooth, but it really didn't get me anywhere. I was mainly just reasearching a lot on how to get bluetooth compatibility with my app. 
+
 #### Future plans
+
+Build is looking good for next week, and code has hiut a slight roadblock, but hopefully will recover soon. More work to come!
 
 ### 2/12 - 2/16
 
 #### What we accomplished/discovered
 
+This was a slighlty different weeks because we had french excahnge students, so we spent a little time off the project to show them around. On our block day, we both were absent so we weren't able to accomplish anything. On Thursday, we had a Zoom with Nicholas and talked about some problems I was having on the app development. He gave us some thoguhts and also sent a few links over that I could reference too. On Friday, we had an Aerospace Engineer talk to the class so once again, we weren't able to work on our project. 
+
 #### Future plans
+
+Unfortuneatly, this week was (almost) completely unproductive due to the events that came up throughout. Next week we hope to hit the ground running again and make some more progress on the bluetooth aspect of the app, along with a finalzed frame.
 
 ### 2/19 - 2/23
 
