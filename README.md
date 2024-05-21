@@ -150,9 +150,16 @@ We want to waterjet the clamps next week and figure out attachments. We also nee
 <details>
 <summary>Click here to see Code BTS</summary>
 
-### Planning
+### Project Story
 
-The code of the project will mainly revolve around the various sensors that we will attach to provide rider metrics. The key differential in our project will be our adaptable screen. Instead of adding a built-in screen to the bike, we will allow users to connect their phone through an app to the bike, allowing them to display all the rider metrics on their personal device for ease and cutting down costs of the bike.
+The code of the project will mainly revolve around the various sensors that we will attach to provide rider metrics. We initially started with the idea to display basic speed values, acceleration, and possibly calories burnt. 
+
+Here's code that displays those items (excluding calories) on our Serial Monitor. We also hooked up an LCD screen and code some basics out.
+
+
+
+
+The key differential in our project will be our adaptable screen. Instead of adding a built-in screen to the bike, we will allow users to connect their phone through an app to the bike, allowing them to display all the rider metrics on their personal device for ease and cutting down costs of the bike.
 
 #### Potential Materials
 
