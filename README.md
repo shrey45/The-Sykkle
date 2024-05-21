@@ -22,6 +22,10 @@ Check out our [project proposal](https://docs.google.com/presentation/d/1oGuyexT
 
 ## Project Planning
 
+To start finding potential project ideas, we went through the proccess of finding problems/solutions that Mr.Miller presetned to us. Here are pictures of a few (of many) index cards of ideas we started with:
+
+*insert image here*
+
 As we started planning our project, we went through a couple ideas. Our first idea was the "Bike for a Coke" project. The presentation proposal for that project can be found [here](https://docs.google.com/presentation/d/1410jdZUBJ9_wcopdnr9YwcTXYcxyng96646APRgzr80/edit?usp=sharing)
 
 Moving on, we decided to pivot the project to something less research heavy and more build/code intensive to better meet the requirements of the project. This is when we landed on our current project - the proposal is the first link in this repository. 
