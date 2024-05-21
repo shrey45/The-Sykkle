@@ -156,7 +156,39 @@ The code of the project will mainly revolve around the various sensors that we w
 
 Here's code that displays those items (excluding calories) on our Serial Monitor. We also hooked up an LCD screen and code some basics out.
 
+```python
 
+import board
+import time
+import touchio
+from lcd.lcd import LCD#LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+import adafruit_mpu6050
+import busio
+
+
+sda_pin = board.GP14
+scl_pin = board.GP15
+i2c_1 = busio.I2C(scl_pin, sda_pin)
+
+mpu = adafruit_mpu6050.MPU6050(i2c_1)
+
+sda_pin_0 = board.GP10
+scl_pin_0 = board.GP11
+i2c_0 = busio.I2C(scl_pin_0, sda_pin_0)
+
+# get and i2c object
+# some LCDs are 0x3f... some are 0x27.
+lcd = LCD(I2CPCF8574Interface(i2c_0, 0x27), num_rows=2, num_cols=16)
+
+
+while True:
+
+    print(f"x = {mpu.acceleration[0]}, y = { mpu.acceleration[1]}, z = {mpu.acceleration[2]}")
+    lcd.print(f"x = {mpu.acceleration[0]}, y = { mpu.acceleration[1]}, z = {mpu.acceleration[2]}")
+
+
+```
 
 
 The key differential in our project will be our adaptable screen. Instead of adding a built-in screen to the bike, we will allow users to connect their phone through an app to the bike, allowing them to display all the rider metrics on their personal device for ease and cutting down costs of the bike.
