@@ -190,8 +190,24 @@ while True:
 
 ```
 
+BIG TWIST:
 
-The key differential in our project will be our adaptable screen. Instead of adding a built-in screen to the bike, we will allow users to connect their phone through an app to the bike, allowing them to display all the rider metrics on their personal device for ease and cutting down costs of the bike.
+We decided to have a key differecial in our project, which was to add a bluetooth app. Instead of adding a built-in screen to the bike, we will allow users to connect their phone through an app to the bike, allowing them to display all the rider metrics on their personal device for ease and cutting down costs of the bike. This decision was inspired by our mentor Nicholas and sounded like a great idea. 
+
+First, I decided to try and use Xcode to develop this app.
+
+Problems I ran into:
+
+- Absolutely NO current documentation on combining Pico hardware with Apple Xcode Environment
+- Current Bluetooth docs are very outdated for the new versions I was mandated to install
+- Not only did I have to figure out how to connect the hardware through bluetooth, I also had to learn all the display coding functions on Xcode as I couldn't develop all of the app on one screen
+- Switching pages was a problem to navigate around the "button" and "direct" classes
+
+In the end, I made the decision to switch off from Xcode and pivot to another medium of bluetooth communication. Here is a snippet of all our Xcode before the switch:
+
+*Insert Images Here*
+
+
 
 #### Potential Materials
 
