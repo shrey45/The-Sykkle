@@ -4,6 +4,21 @@ World's best Stationary Bike KIT
 
 Check out our [project proposal](https://docs.google.com/presentation/d/1oGuyexTfXZ76zOdR2cW2udPQ9dTwL28PTwHlfhq9di8/edit?usp=sharing)
 
+## Bill of Materials
+
+ - Raspberry Pi Pico
+ - Jumper Wires
+ - Accelerometer
+ - LCD Display
+ - Aluminum Sheets
+ - 2x4 Wood Planks
+ - 5nmm Openbuilds Aluminum X-rails
+ - 5mm Openbuilds Bolts
+ - 5mm Openbuilds T-slot nuts
+ - Wood Screws
+ - Metal Screws
+ - 4-40 Nuts & Bolts
+
 
 ## Weekly Progress
 <details>
