@@ -143,6 +143,34 @@ This was a pretty good week in terms of what we accomplished. We found that supp
 
 We want to waterjet the clamps next week and figure out attachments. We also need to come up with a more structually sound prototype for the frame, for which we are considering the metal bars.
 
+### 3/1 - 3/8
+
+#### What we accomplished/discovered
+
+This week we worked on finalizg the clamps. To do this we cut 8 clamps using the waterjet. This will allow us to have four points of contanct, two on each side, to keep the bike secure. We drilled holes on the end of clamps to put a screw in. This will tighten the clamps around the frame of the bike and keep it secure. We started a little bit on attatching the clamps to the pre-existing frame we have.
+
+#### Future plans 
+
+Next week we plan on finalizing our frame. To do this we will need to find an efficent way to attatch the clamps to the frame securely. The obstacle in this is that the frame is shaped like a triangle, and the bike frame is also angeled, so we will need build an extra piece so that the angles match up and clamp can fit seamlessly. 
+
+### 3/8 - 3/15
+
+#### What we accomplished/discovered
+
+This week we made a big discovery and shift. We realized that the frame we made, that was constructed with wood, is too unstable to ever hold up a bike, even with the clamps. This is because it not only has to hold up the bike, and it's rider, but also the force the rider put's into the bike. This just isn't feasible with a wood frame. So we shifted to making a new frame out of metal. This week we just focused on making drawings for this frame and doing the inital designs. We finalized a design that follows the same principles of our old frame, just made out of metal. 
+
+#### Future plans 
+
+In the future we will start constructing, and hopefully finish building the metal frame. We will then attatch the clamps and hopefully have a very stable frame for the bike to sit on. We will also continue to work on the coding for our project. 
+
+### 3/15 - 3/23
+
+#### What we accomplished/discovered
+
+This week we hyperfocused on constructing the frame. The first step in this process was getting the bottom piece ready. The bottom peice was a metal rail, which we deemed sturdy enough to hold the bike. We had this rail in the lab, but it was too long, so firstly we had to cut two pieces to the right length. This presented a problem as we don't have any electric saws to cut the metal with. We decided to do it by hand, which was very inefficent and we were only able to finish correctly sizing one of the two metal pieces.
+#### Future plans 
+
+
 </details>
 
 ## Code
