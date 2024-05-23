@@ -168,8 +168,10 @@ In the future we will start constructing, and hopefully finish building the meta
 #### What we accomplished/discovered
 
 This week we hyperfocused on constructing the frame. The first step in this process was getting the bottom piece ready. The bottom peice was a metal rail, which we deemed sturdy enough to hold the bike. We had this rail in the lab, but it was too long, so firstly we had to cut two pieces to the right length. This presented a problem as we don't have any electric saws to cut the metal with. We decided to do it by hand, which was very inefficent and we were only able to finish correctly sizing one of the two metal pieces.
+
 #### Future plans 
 
+In the future we will finish cutting out the other base piece. Then we will work on building the rest of the frame. Shrey will also continue to work on the code
 
 </details>
 
