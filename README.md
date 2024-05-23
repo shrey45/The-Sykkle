@@ -30,7 +30,7 @@ As we started planning our project, we went through a couple ideas. Our first id
 
 Moving on, we decided to pivot the project to something less research heavy and more build/code intensive to better meet the requirements of the project. This is when we landed on our current project - the proposal is the first link in this repository. 
 
-## Weekly Progress
+## Build
 <details>
 <summary>Click here to see Weekly Progress</summary>
 
