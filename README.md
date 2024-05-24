@@ -235,7 +235,10 @@ Problems I ran into:
 
 In the end, I made the decision to switch off from Xcode and pivot to another medium of bluetooth communication. Here is a snippet of all our Xcode before the switch:
 
-*Insert Images Here*
+<img src="Images/xcode1.PNG" alt="FrontPiece" width="300">
+
+<img src="Images/xcode2.PNG" alt="FrontPiece" width="300">
+
 
 
 
