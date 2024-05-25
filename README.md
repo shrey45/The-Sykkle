@@ -24,7 +24,8 @@ Check out our [project proposal](https://docs.google.com/presentation/d/1oGuyexT
 
 To start finding potential project ideas, we went through the proccess of finding problems/solutions that Mr.Miller presetned to us. Here are pictures of a few (of many) index cards of ideas we started with:
 
-<img src="Images/planning.jpeg" alt="planning" width="300">
+![planning](https://github.com/shrey45/The-Sykkle/assets/63983735/1747d313-7661-469b-b840-606d51fb8d43)
+
 
 As we started planning our project, we went through a couple ideas. Our first idea was the "Bike for a Coke" project. The presentation proposal for that project can be found [here](https://docs.google.com/presentation/d/1410jdZUBJ9_wcopdnr9YwcTXYcxyng96646APRgzr80/edit?usp=sharing)
 
