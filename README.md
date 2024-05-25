@@ -246,6 +246,15 @@ Then, our mentor Nicholas decided to switch our course to a web app. Since he as
 
 
 
+
+
+### Wiring
+
+For the wiring of our project, we used the pico, and accelerometer, and an LCD screen. Here is a wiring diagram.
+
+<img src="Images/wiring.jpg" alt="wiring" width="300">
+
+
 </details>
 
 
