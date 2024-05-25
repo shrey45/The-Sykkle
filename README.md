@@ -266,7 +266,7 @@ For the wiring of our project, we used the pico, and accelerometer, and an LCD s
 
 <summary>Click here to see our Year's reflection</summary>
 
-### The Final Fhoughts
+### The Final Thoughts
 
 *Abraham Lincoln once said "Give me six hours to chop down a tree and I will spend the first four sharpening the ax". We spent those four hourse sharpening the ax only to realize two hours wasn't enough to cut down our tree. However, our ax is so sharp now that it will guide us through the forests life puts in front of us, and cut down many trees in paving the path to our future success. Although we may have not finished our project this year, we learned, and are ready to fight the next battles in the years to come in college.*
 
@@ -276,6 +276,9 @@ Improvement List:
 
 - Make a proper detailed timeline
 - Do not get off track
+
+
+### The Future
 
 As seen by our list, our only major problem this year was the consistency of work, or the lack thereof. As it was college season, we got slighlty sidetracked and burnt out, but that is no excuse for our failure. We can look at it as a memory of failure, which just had to be added to our bucket list in a low risk situation such as high school. Now we know the proper consequences of slacking off, and it will never be repeated as long as there is light that touches this earth.
 
