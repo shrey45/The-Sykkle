@@ -244,6 +244,8 @@ SECOND PLAN:
 
 Then, our mentor Nicholas decided to switch our course to a web app. Since he as had expererience in creating web apps AND connecting them through bluetooth to physical sensors, we decided this would be a good option. He helped us set up with all the git bash and install logs in VS code and then had me play around. Since we were working on a time crunch, I wasn't able to succesfully integrate all our features together, but got a lot of experience and headway to the project. Here are a few snapshots of the code I had, which set up a starting screen and started to scan for peripheral devices.
 
+<img src="Images/vite1.png" alt="vite1" width="300">
+<img src="Images/vite2.png" alt="vite2" width="300">
 
 
 
