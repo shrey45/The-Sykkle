@@ -1,9 +1,9 @@
 # The-Sykkle
 World's best Stationary Bike KIT
 
-**Before we start the documentation, a line of refelection must be kept in mind:
+Before we start the documentation, a line of refelection must be kept in mind:
 
-Abraham Lincoln once said "Give me six hours to chop down a tree and I will spend the first four sharpening the ax". We spent those four hourse sharpening the ax only to realize two hours wasn't enough to cut down our tree. However, our ax is so sharp now that it will guide us through the forests life puts in front of us, and cut down many trees in paving the path to our future success. Although we may have not finished our project this year, we learned, and are ready to fight the next battles in the years to come in college. **
+*Abraham Lincoln once said "Give me six hours to chop down a tree and I will spend the first four sharpening the ax". We spent those four hourse sharpening the ax only to realize two hours wasn't enough to cut down our tree. However, our ax is so sharp now that it will guide us through the forests life puts in front of us, and cut down many trees in paving the path to our future success. Although we may have not finished our project this year, we learned, and are ready to fight the next battles in the years to come in college.*
 
 
 Check out our [project proposal](https://docs.google.com/presentation/d/1oGuyexTfXZ76zOdR2cW2udPQ9dTwL28PTwHlfhq9di8/edit?usp=sharing)
