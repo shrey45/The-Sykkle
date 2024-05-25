@@ -263,6 +263,7 @@ For the wiring of our project, we used the pico, and accelerometer, and an LCD s
 ## Reflection
 
 <details>
+
 <summary>Click here to see our Year's reflection</summary>
 
 
