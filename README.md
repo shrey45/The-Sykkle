@@ -1,10 +1,6 @@
 # The-Sykkle
 World's best Stationary Bike KIT
 
-Before we start the documentation, a line of refelection must be kept in mind:
-
-*Abraham Lincoln once said "Give me six hours to chop down a tree and I will spend the first four sharpening the ax". We spent those four hourse sharpening the ax only to realize two hours wasn't enough to cut down our tree. However, our ax is so sharp now that it will guide us through the forests life puts in front of us, and cut down many trees in paving the path to our future success. Although we may have not finished our project this year, we learned, and are ready to fight the next battles in the years to come in college.*
-
 
 Check out our [project proposal](https://docs.google.com/presentation/d/1oGuyexTfXZ76zOdR2cW2udPQ9dTwL28PTwHlfhq9di8/edit?usp=sharing)
 
@@ -245,20 +241,28 @@ In the end, I made the decision to switch off from Xcode and pivot to another me
 
 SECOND PLAN:
 
-Then, our mentor Nicholas decided to 
+Then, our mentor Nicholas decided to switch our course to a web app. Since he as had expererience in creating web apps AND connecting them through bluetooth to physical sensors, we decided this would be a good option. He helped us set up with all the git bash and install logs in VS code and then had me play around. Since we were working on a time crunch, I wasn't able to succesfully integrate all our features together, but got a lot of experience and headway to the project. Here are a few snapshots of the code I had, which set up a starting screen and started to scan for peripheral devices.
 
-
-
-
-#### Potential Materials
-
-1. Raspberry Pi Pico
-2. HC-05 Bluetooth Module
-3. Phone + App (TBD)
-4. Other sensors TBD
 
 
 </details>
 
 
+## Reflection
 
+<details>
+<summary>Click here to see our Year's reflection</summary>
+
+*Abraham Lincoln once said "Give me six hours to chop down a tree and I will spend the first four sharpening the ax". We spent those four hourse sharpening the ax only to realize two hours wasn't enough to cut down our tree. However, our ax is so sharp now that it will guide us through the forests life puts in front of us, and cut down many trees in paving the path to our future success. Although we may have not finished our project this year, we learned, and are ready to fight the next battles in the years to come in college.*
+
+As a few takeways, we made a list of mistakes that we will not repeat and grow from.
+
+Improvement List:
+
+- Make a proper detailed timeline
+- Do not get off track
+
+As seen by our list, our only major problem this year was the consistency of work, or the lack thereof. As it was college season, we got slighlty sidetracked and burnt out, but that is no excuse for our failure. We can look at it as a memory of failure, which just had to be added to our bucket list in a low risk situation such as high school. Now we know the proper consequences of slacking off, and it will never be repeated as long as there is light that touches this earth.
+
+
+</details>
